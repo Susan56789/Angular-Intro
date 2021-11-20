@@ -21,6 +21,6 @@ tasks: Task[] = [];
   deleteTask(task:Task){
     this.taskService
     .deleteTask(task)
-    .subscribe(()=> (this.tasks = this.tasks.filter(t => t.id !== task.id )));
+    .subscribe(()=> (this.tasks = this.tasks.filter((t) => t.id !== task.id )));
   }
 }

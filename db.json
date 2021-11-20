@@ -1,34 +1,28 @@
 {
-    "tasks":[
-        {
-            "id": 1,
-            "text": "Doctors Appointment",
-            "day": "Dec 5th at 2:30pm",
-            "reminder": true
-          },
-          {
-            "id": 2,
-            "text": "Meeting at School",
-            "day": "Dec 6th at 1:30pm",
-            "reminder": true
-          },
-          {
-            "id": 3,
-            "text": "Food Shopping",
-            "day": "Dec 7th at 12:30pm",
-            "reminder": false
-          } ,
-          {
-              "id":4,
-              "text":"Visiting family",
-              "day": "Dec 12th at 10:00am",
-              "reminder":true
-          },
-          {
-            "id":5,
-            "text":"Clothes Shopping",
-            "day": "Dec 19th at 1:00pm",
-            "reminder":true
-        }
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Dec 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Dec 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "Dec 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Visiting family",
+      "day": "Dec 12th at 10:00am",
+      "reminder": true
+    }
+  ]
 }
