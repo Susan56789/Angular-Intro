@@ -17,12 +17,6 @@
       "text": "Food Shopping",
       "day": "Dec 7th at 12:30pm",
       "reminder": false
-    },
-    {
-      "id": 4,
-      "text": "Visiting family",
-      "day": "Dec 12th at 10:00am",
-      "reminder": true
     }
   ]
 }
