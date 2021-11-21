@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "Dec 7th at 12:30pm",
       "reminder": true
+    },
+    {
+      "text": "Class assignment",
+      "day": "20th Dec 8:00am",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
